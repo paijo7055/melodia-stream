@@ -1,1 +1,2 @@
-"# Melodia Stream - Music Streaming Platform" 
+# melodia-stream - Music Streaming Platform
+
